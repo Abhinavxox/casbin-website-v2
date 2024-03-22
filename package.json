@@ -19,7 +19,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.7.10",
+    "@crowdin/cli": "^3.9.2",
     "@docusaurus/core": "^2.3.1",
     "@docusaurus/preset-classic": "^2.3.1",
     "@giscus/react": "^2.2.4",
